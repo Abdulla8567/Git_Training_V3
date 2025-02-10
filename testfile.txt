@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 And this is another commit from local machine.
+=======
+This is my  testfile for sample downloading.
+>>>>>>> 197294822b4f1d77b273501bba2e10bb4edff01e
