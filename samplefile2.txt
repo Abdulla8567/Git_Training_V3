@@ -1,4 +1,2 @@
 This is sample file 2.
-this is commit reset 2
-git revert 2.
-
+this is commit reset 2.
