@@ -1,3 +1,8 @@
 This is sample file 2.
+
 this is Reset test 2.
+
+
+this is commit reset 2.
+This is comparision lecture,change in file 2
 
